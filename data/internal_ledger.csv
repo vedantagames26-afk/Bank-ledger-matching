@@ -1,0 +1,181 @@
+id,date,amount,channel,order_id,payment_id,reference,method,name
+L000,2026-01-01,10000.00,razorpay,order_demo_000,,,card,Customer 000
+L001,2026-01-01,8000.00,razorpay,order_demo_001,,,upi,Customer 001
+L002,2026-01-01,1646.26,razorpay,order_demo_002,,,card,Customer 002
+L003,2026-01-01,1719.39,razorpay,order_demo_003,,,upi,Customer 003
+L004,2026-01-01,1792.52,razorpay,order_demo_004,,,card,Customer 004
+L005,2026-01-02,1865.65,razorpay,order_demo_005,,,upi,Customer 005
+L006,2026-01-02,1938.78,razorpay,,,,card,Customer 006
+L007,2026-01-02,2011.91,razorpay,order_demo_007,,,upi,Customer 007
+L008,2026-01-02,2222.22,razorpay,,,,upi,
+L009,2026-01-02,2222.22,razorpay,,,,upi,
+L010,2026-01-03,2231.30,razorpay,order_demo_010,,,card,Customer 010
+L011,2026-01-03,2304.43,razorpay,order_demo_011,pay_demo_011,,upi,Customer 011
+L012,2026-01-03,2377.56,razorpay,order_demo_012,,,card,Customer 012
+L013,2026-01-03,2450.69,razorpay,order_demo_013,,,upi,Customer 013
+L014,2026-01-03,2523.82,razorpay,order_demo_014,,,card,Customer 014
+L015,2026-01-04,2596.95,razorpay,order_demo_015,,,upi,Customer 015
+L016,2026-01-04,2670.08,razorpay,order_demo_016,,,card,Customer 016
+L017,2026-01-04,2743.21,razorpay,order_demo_017,,,upi,Customer 017
+L018,2026-01-04,2816.34,razorpay,order_demo_018,,,card,Customer 018
+L019,2026-01-04,2889.47,razorpay,order_demo_019,,,upi,Customer 019
+L020,2026-01-05,2962.60,razorpay,order_demo_020,,,card,Customer 020
+L021,2026-01-05,3035.73,razorpay,order_demo_021,,,upi,Customer 021
+L022,2026-01-05,3108.86,razorpay,order_demo_022,,,card,Customer 022
+L023,2026-01-05,3181.99,razorpay,order_demo_023,,,upi,Customer 023
+L024,2026-01-05,3255.12,razorpay,order_demo_024,,,card,Customer 024
+L025,2026-01-06,3328.25,razorpay,order_demo_025,,,upi,Customer 025
+L026,2026-01-06,3401.38,razorpay,order_demo_026,,,card,Customer 026
+L027,2026-01-06,3474.51,razorpay,order_demo_027,,,upi,Customer 027
+L028,2026-01-06,3547.64,razorpay,order_demo_028,,,card,Customer 028
+L029,2026-01-06,3620.77,razorpay,order_demo_029,,,upi,Customer 029
+L030,2026-01-07,3693.90,razorpay,order_demo_030,,,card,Customer 030
+L031,2026-01-07,3767.03,razorpay,order_demo_031,,,upi,Customer 031
+L032,2026-01-07,3840.16,razorpay,order_demo_032,,,card,Customer 032
+L033,2026-01-07,3913.29,razorpay,order_demo_033,,,upi,Customer 033
+L034,2026-01-07,3986.42,razorpay,order_demo_034,,,card,Customer 034
+L035,2026-01-08,4059.55,razorpay,order_demo_035,,,upi,Customer 035
+L036,2026-01-08,4132.68,razorpay,order_demo_036,,,card,Customer 036
+L037,2026-01-08,4205.81,razorpay,order_demo_037,,,upi,Customer 037
+L038,2026-01-08,4278.94,razorpay,order_demo_038,,,card,Customer 038
+L039,2026-01-08,4352.07,razorpay,order_demo_039,,,upi,Customer 039
+L040,2026-01-09,4425.20,razorpay,order_demo_040,,,card,Customer 040
+L041,2026-01-09,4498.33,razorpay,order_demo_041,,,upi,Customer 041
+L042,2026-01-09,4571.46,razorpay,order_demo_042,,,card,Customer 042
+L043,2026-01-09,4644.59,razorpay,order_demo_043,,,upi,Customer 043
+L044,2026-01-09,4717.72,razorpay,order_demo_044,,,card,Customer 044
+L045,2026-01-10,4790.85,razorpay,order_demo_045,,,upi,Customer 045
+L046,2026-01-10,4863.98,razorpay,order_demo_046,,,card,Customer 046
+L047,2026-01-10,4937.11,razorpay,order_demo_047,,,upi,Customer 047
+L048,2026-01-10,5010.24,razorpay,order_demo_048,,,card,Customer 048
+L049,2026-01-10,5083.37,razorpay,order_demo_049,,,upi,Customer 049
+L050,2026-01-11,5156.50,razorpay,order_demo_050,,,card,Customer 050
+L051,2026-01-11,5229.63,razorpay,order_demo_051,,,upi,Customer 051
+L052,2026-01-11,5302.76,razorpay,order_demo_052,,,card,Customer 052
+L053,2026-01-11,5375.89,razorpay,order_demo_053,,,upi,Customer 053
+L054,2026-01-11,5449.02,razorpay,order_demo_054,,,card,Customer 054
+L055,2026-01-12,5522.15,razorpay,order_demo_055,,,upi,Customer 055
+L056,2026-01-12,5595.28,razorpay,order_demo_056,,,card,Customer 056
+L057,2026-01-12,5668.41,razorpay,order_demo_057,,,upi,Customer 057
+L058,2026-01-12,5741.54,razorpay,order_demo_058,,,card,Customer 058
+L059,2026-01-12,5814.67,razorpay,order_demo_059,,,upi,Customer 059
+L060,2026-01-13,5887.80,razorpay,order_demo_060,,,card,Customer 060
+L061,2026-01-13,5960.93,razorpay,order_demo_061,,,upi,Customer 061
+L062,2026-01-13,6034.06,razorpay,order_demo_062,,,card,Customer 062
+L063,2026-01-13,6107.19,razorpay,order_demo_063,,,upi,Customer 063
+L064,2026-01-13,6180.32,razorpay,order_demo_064,,,card,Customer 064
+L065,2026-01-14,6253.45,razorpay,order_demo_065,,,upi,Customer 065
+L066,2026-01-14,6326.58,razorpay,order_demo_066,,,card,Customer 066
+L067,2026-01-14,6399.71,razorpay,order_demo_067,,,upi,Customer 067
+L068,2026-01-14,6472.84,razorpay,order_demo_068,,,card,Customer 068
+L069,2026-01-14,6545.97,razorpay,order_demo_069,,,upi,Customer 069
+L070,2026-01-15,6619.10,razorpay,order_demo_070,,,card,Customer 070
+L071,2026-01-15,6692.23,razorpay,order_demo_071,,,upi,Customer 071
+L072,2026-01-15,6765.36,razorpay,order_demo_072,,,card,Customer 072
+L073,2026-01-15,6838.49,razorpay,order_demo_073,,,upi,Customer 073
+L074,2026-01-15,6911.62,razorpay,order_demo_074,,,card,Customer 074
+L075,2026-01-16,6984.75,razorpay,order_demo_075,,,upi,Customer 075
+L076,2026-01-16,7057.88,razorpay,order_demo_076,,,card,Customer 076
+L077,2026-01-16,7131.01,razorpay,order_demo_077,,,upi,Customer 077
+L078,2026-01-16,7204.14,razorpay,order_demo_078,,,card,Customer 078
+L079,2026-01-16,7277.27,razorpay,order_demo_079,,,upi,Customer 079
+L080,2026-01-17,7350.40,razorpay,order_demo_080,,,card,Customer 080
+L081,2026-01-17,7423.53,razorpay,order_demo_081,,,upi,Customer 081
+L082,2026-01-17,7496.66,razorpay,order_demo_082,,,card,Customer 082
+L083,2026-01-17,7569.79,razorpay,order_demo_083,,,upi,Customer 083
+L084,2026-01-17,7642.92,razorpay,order_demo_084,,,card,Customer 084
+L085,2026-01-18,7716.05,razorpay,order_demo_085,,,upi,Customer 085
+L086,2026-01-18,7789.18,razorpay,order_demo_086,,,card,Customer 086
+L087,2026-01-18,7862.31,razorpay,order_demo_087,,,upi,Customer 087
+L088,2026-01-18,7935.44,razorpay,order_demo_088,,,card,Customer 088
+L089,2026-01-18,8008.57,razorpay,order_demo_089,,,upi,Customer 089
+L090,2026-01-19,8081.70,razorpay,order_demo_090,,,card,Customer 090
+L091,2026-01-19,8154.83,razorpay,order_demo_091,,,upi,Customer 091
+L092,2026-01-19,8227.96,razorpay,order_demo_092,,,card,Customer 092
+L093,2026-01-19,8301.09,razorpay,order_demo_093,,,upi,Customer 093
+L094,2026-01-19,8374.22,razorpay,order_demo_094,,,card,Customer 094
+L095,2026-01-20,8447.35,razorpay,order_demo_095,,,upi,Customer 095
+L096,2026-01-20,8520.48,razorpay,order_demo_096,,,card,Customer 096
+L097,2026-01-20,8593.61,razorpay,order_demo_097,,,upi,Customer 097
+L098,2026-01-20,8666.74,razorpay,order_demo_098,,,card,Customer 098
+L099,2026-01-20,8739.87,razorpay,order_demo_099,,,upi,Customer 099
+L100,2026-01-21,8813.00,razorpay,order_demo_100,,,card,Customer 100
+L101,2026-01-21,8886.13,razorpay,order_demo_101,,,upi,Customer 101
+L102,2026-01-21,8959.26,razorpay,order_demo_102,,,card,Customer 102
+L103,2026-01-21,9032.39,razorpay,order_demo_103,,,upi,Customer 103
+L104,2026-01-21,9105.52,razorpay,order_demo_104,,,card,Customer 104
+L105,2026-01-22,9178.65,razorpay,order_demo_105,,,upi,Customer 105
+L106,2026-01-22,9251.78,razorpay,order_demo_106,,,card,Customer 106
+L107,2026-01-22,9324.91,razorpay,order_demo_107,,,upi,Customer 107
+L108,2026-01-22,9398.04,razorpay,order_demo_108,,,card,Customer 108
+L109,2026-01-22,9471.17,razorpay,order_demo_109,,,upi,Customer 109
+L110,2026-01-23,9544.30,razorpay,order_demo_110,,,card,Customer 110
+L111,2026-01-23,9617.43,razorpay,order_demo_111,,,upi,Customer 111
+L112,2026-01-23,9690.56,razorpay,order_demo_112,,,card,Customer 112
+L113,2026-01-23,9763.69,razorpay,order_demo_113,,,upi,Customer 113
+L114,2026-01-23,9836.82,razorpay,order_demo_114,,,card,Customer 114
+L115,2026-01-24,9909.95,razorpay,order_demo_115,,,upi,Customer 115
+L116,2026-01-24,9983.08,razorpay,order_demo_116,,,card,Customer 116
+L117,2026-01-24,10056.21,razorpay,order_demo_117,,,upi,Customer 117
+L118,2026-01-24,10129.34,razorpay,order_demo_118,,,card,Customer 118
+L119,2026-01-24,10202.47,razorpay,order_demo_119,,,upi,Customer 119
+L120,2026-01-25,10275.60,razorpay,order_demo_120,,,card,Customer 120
+L121,2026-01-25,10348.73,razorpay,order_demo_121,,,upi,Customer 121
+L122,2026-01-25,10421.86,razorpay,order_demo_122,,,card,Customer 122
+L123,2026-01-25,10494.99,razorpay,order_demo_123,,,upi,Customer 123
+L124,2026-01-25,10568.12,razorpay,order_demo_124,,,card,Customer 124
+L125,2026-01-26,10641.25,razorpay,order_demo_125,,,upi,Customer 125
+L126,2026-01-26,10714.38,razorpay,order_demo_126,,,card,Customer 126
+L127,2026-01-26,10787.51,razorpay,order_demo_127,,,upi,Customer 127
+L128,2026-01-26,10860.64,razorpay,order_demo_128,,,card,Customer 128
+L129,2026-01-26,10933.77,razorpay,order_demo_129,,,upi,Customer 129
+L130,2026-01-27,11006.90,razorpay,order_demo_130,,,card,Customer 130
+L131,2026-01-27,11080.03,razorpay,order_demo_131,,,upi,Customer 131
+L132,2026-01-27,11153.16,razorpay,order_demo_132,,,card,Customer 132
+L133,2026-01-27,11226.29,razorpay,order_demo_133,,,upi,Customer 133
+L134,2026-01-27,11299.42,razorpay,order_demo_134,,,card,Customer 134
+L135,2026-01-28,11372.55,razorpay,order_demo_135,,,upi,Customer 135
+L136,2026-01-28,11445.68,razorpay,order_demo_136,,,card,Customer 136
+L137,2026-01-28,11518.81,razorpay,order_demo_137,,,upi,Customer 137
+L138,2026-01-28,11591.94,razorpay,order_demo_138,,,card,Customer 138
+L139,2026-01-28,11665.07,razorpay,order_demo_139,,,upi,Customer 139
+L140,2026-01-29,11738.20,razorpay,order_demo_140,,,card,Customer 140
+L141,2026-01-29,11811.33,razorpay,order_demo_141,,,upi,Customer 141
+L142,2026-01-29,11884.46,razorpay,order_demo_142,,,card,Customer 142
+L143,2026-01-29,11957.59,razorpay,order_demo_143,,,upi,Customer 143
+L144,2026-01-29,12030.72,razorpay,order_demo_144,,,card,Customer 144
+L145,2026-01-30,12103.85,razorpay,order_demo_145,,,upi,Customer 145
+L146,2026-01-30,12176.98,razorpay,order_demo_146,,,card,Customer 146
+L147,2026-01-30,12250.11,razorpay,order_demo_147,,,upi,Customer 147
+L148,2026-01-30,12323.24,razorpay,order_demo_148,,,card,Customer 148
+L149,2026-01-30,12396.37,razorpay,order_demo_149,,,upi,Customer 149
+L150,2026-01-31,12469.50,razorpay,order_demo_150,,,card,Customer 150
+L151,2026-01-31,12542.63,razorpay,order_demo_151,,,upi,Customer 151
+L152,2026-01-31,12615.76,razorpay,order_demo_152,,,card,Customer 152
+L153,2026-01-31,12688.89,razorpay,order_demo_153,,,upi,Customer 153
+L154,2026-01-31,12762.02,razorpay,order_demo_154,,,card,Customer 154
+L155,2026-02-01,12835.15,razorpay,order_demo_155,,,upi,Customer 155
+L156,2026-02-01,12908.28,razorpay,order_demo_156,,,card,Customer 156
+L157,2026-02-01,12981.41,razorpay,order_demo_157,,,upi,Customer 157
+L158,2026-02-01,13054.54,razorpay,order_demo_158,,,card,Customer 158
+L159,2026-02-01,13127.67,razorpay,order_demo_159,,,upi,Customer 159
+D000,2026-01-02,3300.00,direct,,,,bank,Wholesale client 0
+D001,2026-01-03,3498.79,direct,,,,bank,Wholesale client 1
+D002,2026-01-04,3697.58,direct,,,,bank,Wholesale client 2
+D003,2026-01-05,3896.37,direct,,,,bank,Wholesale client 3
+D004,2026-01-06,4095.16,direct,,,,bank,Wholesale client 4
+D005,2026-01-07,4293.95,direct,,,,bank,Wholesale client 5
+D006,2026-01-08,4492.74,direct,,,,bank,Wholesale client 6
+D007,2026-01-09,4691.53,direct,,,,bank,Wholesale client 7
+D008,2026-01-10,4890.32,direct,,,,bank,Wholesale client 8
+D009,2026-01-11,5089.11,direct,,,,bank,Wholesale client 9
+D010,2026-01-12,5287.90,direct,,,,bank,Wholesale client 10
+D011,2026-01-13,5486.69,direct,,,,bank,Wholesale client 11
+D012,2026-01-14,5685.48,direct,,,,bank,Wholesale client 12
+D013,2026-01-15,5884.27,direct,,,,bank,Wholesale client 13
+D014,2026-01-16,6083.06,direct,,,,bank,Wholesale client 14
+D015,2026-01-17,6281.85,direct,,,,bank,Wholesale client 15
+D016,2026-01-18,6480.64,direct,,,,bank,Wholesale client 16
+D017,2026-01-19,6679.43,direct,,,,bank,Wholesale client 17
+D018,2026-01-20,6878.22,direct,,,,bank,Wholesale client 18
+D019,2026-01-21,7077.01,direct,,,,bank,Wholesale client 19

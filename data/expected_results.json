@@ -1,0 +1,28 @@
+{
+  "ledger": {
+    "L000": "MATCHED",
+    "L001": "PARTIAL",
+    "L002": "FAILED",
+    "L003": "UNMATCHED",
+    "L004": "REVIEW",
+    "L005": "MATCHED",
+    "L006": "MATCHED",
+    "L008": "REVIEW",
+    "L009": "REVIEW",
+    "L010": "REVIEW",
+    "L011": "REVIEW",
+    "L012": "DELAYED",
+    "D000": "MATCHED"
+  },
+  "settlements": {
+    "setl_demo_00": "MATCHED",
+    "setl_demo_01": "REVIEW",
+    "setl_demo_02": "REVIEW",
+    "setl_demo_04": "MATCHED",
+    "setl_demo_03": "REVIEW",
+    "setl_demo_05": "UNMATCHED",
+    "setl_demo_07": "DELAYED"
+  },
+  "opening_balance_paise": 50000000,
+  "synthetic": true
+}
